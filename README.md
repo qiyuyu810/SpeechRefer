@@ -3,6 +3,10 @@ samples in SpeechRefer Datasets
 
 “there's a brown cabinet in the kitchen. it is on top of the refrigerator.”
 1. no accent, normal rate, no background noise
+<audio controls>
+  <source src="Speech example/NF.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 2. with chinese accent, rate 200 and 100
 
